@@ -16,6 +16,7 @@
 	
 	<modules>
         <module>pattern-demo01</module>
+		<module>pattern-demo02</module>
     </modules>
 	
 	<build>

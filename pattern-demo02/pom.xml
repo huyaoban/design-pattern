@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>pattern-demo02</artifactId>
-    <name>pattern-demo01</name>
+    <name>pattern-demo02</name>
     <description>工厂方法模式</description>
     <packaging>jar</packaging>
 	

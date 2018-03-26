@@ -19,6 +19,7 @@
 		<module>pattern-demo02</module>
 		<module>pattern-demo03</module>
 		<module>pattern-demo04</module>
+		<module>pattern-demo05</module>
     </modules>
 	
 	<build>

@@ -18,6 +18,7 @@
         <module>pattern-demo01</module>
 		<module>pattern-demo02</module>
 		<module>pattern-demo03</module>
+		<module>pattern-demo04</module>
     </modules>
 	
 	<build>

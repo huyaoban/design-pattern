@@ -20,6 +20,7 @@
 		<module>pattern-demo03</module>
 		<module>pattern-demo04</module>
 		<module>pattern-demo05</module>
+		<module>pattern-demo06</module>
     </modules>
 	
 	<build>
